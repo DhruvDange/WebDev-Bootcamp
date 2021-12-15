@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #83c5be;
+}
+
+.header {
+    margin: 0px;
+    background-color: #006d77;
+}
+
+.heading {
+    height: 1.2em;
+    margin: 0px;
+    padding: 0.4em 0em 0.4em 1em;
+    color: #edf6f9;
+    font-family: monospace;
+    font-size: xxx-large;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+    color: rgba(255, 248, 220, 0.493);
+    font-size: 1.2em;
+}
+
+.note {
+    display: inline-block;
+    background-color: cornsilk;
+    margin: 2% 5%;
+    padding: 0.1% 2%;
+    border-radius: 1em;
+}
+
+.note-h {
+    font-size: 1.3em;
+    margin-bottom: 2px;
+    font-weight: 600;
+}
+
+.note-p {
+    font-size: 1.3em;
+    font-weight: 200;
+    margin-top: 0px;
+}
